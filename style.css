@@ -12,3 +12,8 @@ body {
     background-image: url("girls.jpg");
     background-size: 100%;
 }
+div{
+    display:block;
+    
+    color: white;
+}
