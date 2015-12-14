@@ -2,7 +2,8 @@
 h1{
     color:red;
     text-align:center;
-    font-size:70px;
+    font-size:50px;
+    font-family: 'Shadows Into Light', cursive;
 }
 h3{
     text-align:center;
@@ -11,4 +12,7 @@ h3{
 body {
     background-image: url("girl.jpg");
     background-size: 100%;
+    
+   
+    
 }
