@@ -10,9 +10,17 @@ h3{
     font-size:30px;
 }
 body {
-    background-image: url("girl.jpg");
+    background-image: url("girls.jpg");
     background-size: 100%;
+<<<<<<< HEAD
     
    
     
+=======
+}
+div{
+    display:block;
+    
+    color: white;
+>>>>>>> f720fa7d9256c1078d9b86b8b950fd241c1aad29
 }
