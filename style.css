@@ -33,8 +33,13 @@ img {
 }
 #tickets{
     color:pink;
-    float:right;
+    text-align:center;
 }
 h2{
-    
+    color:white;
+}
+h4{
+    font-size:30px;
+    color:lightgrey;
+    text-align:center;
 }
