@@ -1,5 +1,6 @@
 h1{
-    color:red;
+    color:white;
+    text-shadow: 2px 2px black;
     text-align:center;
     font-size:50px;
     font-family: 'Shadows Into Light', cursive;
@@ -12,8 +13,8 @@ body {
     background-image: url("girls.jpg");
     background-size: 100%;
 }
-div{
-    color:white;
+.info {
+    color:yellow;
     display:block;
 }
 p{
