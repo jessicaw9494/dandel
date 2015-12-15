@@ -20,8 +20,13 @@ body {
 .info {
     color:yellow;
     display:block;
+    padding: 50px 30px 50px 80px;
 }
 p{
     text-align:center;
     font-size:20px;
+}
+img {
+    margin-left: 100px;
+    
 }
